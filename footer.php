@@ -101,6 +101,7 @@
                     
                     <div class="reply__close">&times</div>
                 </form>
+                  
             </div>
         </div>
         <footer>
@@ -162,7 +163,8 @@
         wp_footer();
     ?>
 
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUjVMkEX7q5SFHtxh4qzLV4UMYwj7RIwI"></script> // Ваш ключ Google API 
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAUjVMkEX7q5SFHtxh4qzLV4UMYwj7RIwI"></script> 
+<!-- Ваш ключ Google API  -->
 <script type="text/javascript">
 (function($) {
 
